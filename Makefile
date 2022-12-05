@@ -3,8 +3,6 @@
 
 .SILENT:
 
-export DOCKER_BUILDKIT = 0
-
 TAG := skhaz/svgo:latest
 
 build:
